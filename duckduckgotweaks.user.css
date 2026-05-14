@@ -1,9 +1,9 @@
 /* ==UserStyle==
 @name           DuckDuckGo Tweaks
-@namespace      atrasec
+@namespace      atrodec
 @version        1.1.1
 @description    Improves DuckDuckGo
-@author         atrasec
+@author         atrodec
 @preprocessor stylus
 @var select logo "Logo" ["default:Default", "custom:Custom", "none:None"]
 @var text customLogo "Custom logo" url(placeholder)
